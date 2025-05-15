@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: wtr6ed0wo-nodejs-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/wtr6ed0wo-nodejs-gitops
